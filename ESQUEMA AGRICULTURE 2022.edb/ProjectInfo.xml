@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Properties>
- <Property name="Identificación de objeto" id="2000" index="0" type="7">58/14/1/0</Property>
+ <Property name="Identificación de objeto" id="2000" index="0" type="7">23/14/1/0</Property>
  <Property name="Ultimo responsable: código" id="3010" index="0" type="7"/>
  <Property name="Ultimo responsable: nombre" id="3011" index="0" type="7"/>
  <Property name="Ultimo responsable: teléfono" id="3012" index="0" type="7"/>
@@ -27,10 +27,10 @@
  <Property name="Autor" id="10020" index="0" type="7">SENASICA</Property>
  <Property name="Fecha de creación" id="10021" index="0" type="14">1649687105</Property>
  <Property name="Ultimo responsable: nombre de inicio de sesión" id="10022" index="0" type="7">SENASICA</Property>
- <Property name="Fecha de modificación" id="10023" index="0" type="14">1649721543</Property>
+ <Property name="Fecha de modificación" id="10023" index="0" type="14">1649877012</Property>
  <Property name="Última traducción: fecha" id="10024" index="0" type="14">1628151997</Property>
  <Property name="Responsable del proyecto" id="10025" index="0" type="7">EPL</Property>
- <Property name="Fecha del día" id="10027" index="0" type="14">1649721794</Property>
+ <Property name="Fecha del día" id="10027" index="0" type="14">1649878675</Property>
  <Property name="Inicio de proyecto" id="10028" index="0" type="14">1649687128</Property>
  <Property name="Formatos de estructura principal" id="10029" index="0" type="7">4&#9;0&#9;0&#9;0&#9;0</Property>
  <Property name="Ambito especial" id="10034" index="0" type="15">de_DE@Keine;en_US@None;es_ES@Ninguno;fr_FR@Aucune;nl_NL@Geen;sv_SE@Inga;da_DK@Ingen;ru_RU@Нет;zh_CN@无;pl_PL@Brak;pt_BR@Nenhum;cs_CZ@Žádné;it_IT@Nessuno;hu_HU@Nincs;pt_PT@Nenhum;ko_KR@없음;ja_JP@なし;tr_TR@Yok;ro_RO@Niciuna;zh_TW@無;</Property>
@@ -39,7 +39,7 @@
  <Property name="Ultimo número de compilación EPLAN utilizado" id="10044" index="0" type="7">17561</Property>
  <Property name="Ruta de proyecto (completa)" id="10045" index="0" type="7">C:\Users\SENASICA\Documents\PROYECTO ESQUEMA AGRICULTURE</Property>
  <Property name="Hora de creación" id="10046" index="0" type="7">09:25:05 a. m.</Property>
- <Property name="Hora de modificación" id="10047" index="0" type="7">06:59:03 p. m.</Property>
+ <Property name="Hora de modificación" id="10047" index="0" type="7">02:10:12 p. m.</Property>
  <Property name="Última traducción: hora" id="10048" index="0" type="7">03:26:37 a. m.</Property>
  <Property name="Formato de estructura de páginas" id="10050" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;10006&gt;&lt;11012&gt;&lt;11013&gt;</Property>
  <Property name="Formato de estructura de puntos de interrupción" id="10051" index="0" type="7">&lt;10002&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;</Property>
@@ -48,7 +48,7 @@
  <Property name="Formato de estructura de medios de explotación generales" id="10055" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Formato de estructura de cajas de aparatos" id="10056" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Formato de estructura para técnica PLC / bus" id="10057" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
- <Property name="Hora del día" id="10058" index="0" type="14">1649721794</Property>
+ <Property name="Hora del día" id="10058" index="0" type="14">1649878675</Property>
  <Property name="Formato de estructura de regletas de bornes" id="10059" index="0" type="7">&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Formato de estructura de conectores" id="10060" index="0" type="7">&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Formato de estructura de cables" id="10061" index="0" type="7">&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
@@ -150,7 +150,7 @@
  <Property name="Revisión: Nombre de proyecto original" id="10149" index="0" type="7"/>
  <Property name="Id. de proyecto unívoco" id="10184" index="0" type="7">IEC_bas003_sample_project@1649687113</Property>
  <Property name="Número de licencia de dongle" id="10185" index="0" type="7">USERNAME</Property>
- <Property name="Número de páginas por tipo de página" id="10200" index="1" type="4">2</Property>
+ <Property name="Número de páginas por tipo de página" id="10200" index="1" type="4">3</Property>
  <Property name="Número de páginas por tipo de página" id="10200" index="2" type="4">0</Property>
  <Property name="Número de páginas por tipo de página" id="10200" index="3" type="4">0</Property>
  <Property name="Número de páginas por tipo de página" id="10200" index="4" type="4">0</Property>
@@ -215,14 +215,14 @@
  <Property name="Número de páginas por tipo de página" id="10200" index="63" type="4">0</Property>
  <Property name="Autor: Nombre abreviado" id="10230" index="0" type="7">EPLAN</Property>
  <Property name="Autor: Tratamiento" id="10231" index="0" type="7">Firma</Property>
- <Property name="Autor: Nombre 1" id="10232" index="0" type="7">EPLAN GmbH &amp; Co. KG</Property>
+ <Property name="Autor: Nombre 1" id="10232" index="0" type="7">IMC. Julio Eliseo Ramos Arguello</Property>
  <Property name="Autor: Calle" id="10235" index="0" type="7">An der alten Ziegelei 2</Property>
  <Property name="Autor: CP (domicilio)" id="10237" index="0" type="7">40789</Property>
  <Property name="Autor: Domicilio" id="10238" index="0" type="7">Monheim am Rhein</Property>
  <Property name="Autor: País" id="10239" index="0" type="7">Deutschland</Property>
  <Property name="Autor: Teléfono" id="10240" index="0" type="7">+49 (0)2173 - 39 64 - 0</Property>
  <Property name="Autor: Fax" id="10241" index="0" type="7">+49 (0)2173 - 39 64 - 25</Property>
- <Property name="Ultima fecha de modificación por tipo de página" id="10250" index="1" type="14">1649714854</Property>
+ <Property name="Ultima fecha de modificación por tipo de página" id="10250" index="1" type="14">1649797903</Property>
  <Property name="Ultima fecha de modificación por tipo de página" id="10250" index="2" type="14"/>
  <Property name="Ultima fecha de modificación por tipo de página" id="10250" index="3" type="14"/>
  <Property name="Ultima fecha de modificación por tipo de página" id="10250" index="4" type="14"/>
@@ -285,7 +285,7 @@
  <Property name="Ultima fecha de modificación por tipo de página" id="10250" index="61" type="14"/>
  <Property name="Ultima fecha de modificación por tipo de página" id="10250" index="62" type="14"/>
  <Property name="Ultima fecha de modificación por tipo de página" id="10250" index="63" type="14"/>
- <Property name="Ultima hora de modificación por tipo de página" id="10251" index="1" type="7">05:07:34 p. m.</Property>
+ <Property name="Ultima hora de modificación por tipo de página" id="10251" index="1" type="7">04:11:43 p. m.</Property>
  <Property name="Ultima hora de modificación por tipo de página" id="10251" index="2" type="7"/>
  <Property name="Ultima hora de modificación por tipo de página" id="10251" index="3" type="7"/>
  <Property name="Ultima hora de modificación por tipo de página" id="10251" index="4" type="7"/>
@@ -335,8 +335,8 @@
  <Property name="Ultima hora de modificación por tipo de página" id="10251" index="48" type="7"/>
  <Property name="Ultima hora de modificación por tipo de página" id="10251" index="49" type="7"/>
  <Property name="Ultima hora de modificación por tipo de página" id="10251" index="50" type="7"/>
- <Property name="Número total de páginas" id="10300" index="0" type="4">2</Property>
- <Property name="Páginas indicadas" id="10301" index="0" type="4">2</Property>
+ <Property name="Número total de páginas" id="10300" index="0" type="4">3</Property>
+ <Property name="Páginas indicadas" id="10301" index="0" type="4">3</Property>
  <Property name="Páginas de evaluación generadas" id="10302" index="0" type="4">0</Property>
  <Property name="Estado de proyecto" id="10303" index="0" type="7">11&#9;1&#9;Bornes&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;2&#9;Conectores&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;3&#9;Cables&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;4&#9;PLC / Bus&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;5&#9;Conexiones&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;7&#9;Dispositivos&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;8&#9;Idiomas&#9;&#9;&#9;&#9;0&#9;0&#9;7040&#9;10&#9;Referencias cruzadas&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;11&#9;Puntos de interrupción&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;12&#9;Construcción de armarios 2D&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;13&#9;Datos de artículos&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;14&#9;Macro&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;15&#9;Evaluaciones&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;16&#9;Cajas de aparatos&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;17&#9;IME&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;18&#9;Aplicación de datos de EPLAN 5&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;19&#9;Aplicación de datos de EPLAN 21&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;20&#9;Comparación de proyectos&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;21&#9;Objetos contenedor&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;22&#9;Otros&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;24&#9;Fluido&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;25&#9;Ajustes de proyecto&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;26&#9;Construcción 3D&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;27&#9;Topología&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;28&#9;Planificación previa&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;29&#9;Profundidad de la planificación previa&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;30&#9;Proyectos parciales&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;32&#9;Imagen de perforación&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;33&#9;Árbol de cables&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;501&#9;Datos básicos de artículo&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;999&#9;Externo&#9;&#9;&#9;&#9;0&#9;0&#9;0</Property>
  <Property name="Número de espacios" id="10304" index="0" type="4">0</Property>
@@ -389,138 +389,20 @@
  <Property name="Tipo de proyecto" id="10902" index="0" type="4">1</Property>
  <Property name="Internal: Number of repair processes of the project object" id="10904" index="0" type="4">0</Property>
  <Property name="Formato de marca de revisión (de seguimiento de cambios)" id="19031" index="0" type="7">[14&lt;10155,1,0,0,0,0,0,0,0,,0,0,,0,0&gt;][LF][14&lt;10157,1,0,0,0,0,0,0,0,,0,0,,0,0&gt;][LF][14&lt;10158,1,0,0,0,0,0,0,0,,0,0,,0,0&gt;]</Property>
- <Property name="Campo adicional de usuario 20" id="59460" index="0" type="15" identname="EPLAN.ArticleRef.EPLAN.PartRef.UserSupplementaryField20" category="14" displaytype="9000"/>
- <Property name="Campo adicional de usuario 19" id="59461" index="0" type="15" identname="EPLAN.ArticleRef.EPLAN.PartRef.UserSupplementaryField19" category="14" displaytype="9000"/>
- <Property name="Campo adicional de usuario 18" id="59462" index="0" type="15" identname="EPLAN.ArticleRef.EPLAN.PartRef.UserSupplementaryField18" category="14" displaytype="9000"/>
- <Property name="Campo adicional de usuario 17" id="59463" index="0" type="15" identname="EPLAN.ArticleRef.EPLAN.PartRef.UserSupplementaryField17" category="14" displaytype="9000"/>
- <Property name="Campo adicional de usuario 16" id="59464" index="0" type="15" identname="EPLAN.ArticleRef.EPLAN.PartRef.UserSupplementaryField16" category="14" displaytype="9000"/>
- <Property name="Campo adicional de usuario 15" id="59465" index="0" type="15" identname="EPLAN.ArticleRef.EPLAN.PartRef.UserSupplementaryField15" category="14" displaytype="9000"/>
- <Property name="Campo adicional de usuario 14" id="59466" index="0" type="15" identname="EPLAN.ArticleRef.EPLAN.PartRef.UserSupplementaryField14" category="14" displaytype="9000"/>
- <Property name="Campo adicional de usuario 13" id="59467" index="0" type="15" identname="EPLAN.ArticleRef.EPLAN.PartRef.UserSupplementaryField13" category="14" displaytype="9000"/>
- <Property name="Campo adicional de usuario 12" id="59468" index="0" type="15" identname="EPLAN.ArticleRef.EPLAN.PartRef.UserSupplementaryField12" category="14" displaytype="9000"/>
- <Property name="Campo adicional de usuario 11" id="59469" index="0" type="15" identname="EPLAN.ArticleRef.EPLAN.PartRef.UserSupplementaryField11" category="14" displaytype="9000"/>
- <Property name="Campo adicional de usuario 10" id="59470" index="0" type="15" identname="EPLAN.ArticleRef.EPLAN.PartRef.UserSupplementaryField10" category="14" displaytype="9000"/>
- <Property name="Campo adicional de usuario 9" id="59471" index="0" type="15" identname="EPLAN.ArticleRef.EPLAN.PartRef.UserSupplementaryField9" category="14" displaytype="9000"/>
- <Property name="Campo adicional de usuario 8" id="59472" index="0" type="15" identname="EPLAN.ArticleRef.EPLAN.PartRef.UserSupplementaryField8" category="14" displaytype="9000"/>
- <Property name="Campo adicional de usuario 7" id="59473" index="0" type="15" identname="EPLAN.ArticleRef.EPLAN.PartRef.UserSupplementaryField7" category="14" displaytype="9000"/>
- <Property name="Campo adicional de usuario 5" id="59474" index="0" type="15" identname="EPLAN.ArticleRef.EPLAN.PartRef.UserSupplementaryField5" category="14" displaytype="9000"/>
- <Property name="Campo adicional de usuario 4" id="59475" index="0" type="15" identname="EPLAN.ArticleRef.EPLAN.PartRef.UserSupplementaryField4" category="14" displaytype="9000"/>
- <Property name="Campo adicional de usuario 3" id="59476" index="0" type="15" identname="EPLAN.ArticleRef.EPLAN.PartRef.UserSupplementaryField3" category="14" displaytype="9000"/>
- <Property name="Campo adicional de usuario 2" id="59477" index="0" type="15" identname="EPLAN.ArticleRef.EPLAN.PartRef.UserSupplementaryField2" category="14" displaytype="9000"/>
- <Property name="Campo adicional de usuario 1" id="59478" index="0" type="15" identname="EPLAN.ArticleRef.EPLAN.PartRef.UserSupplementaryField1" category="14" displaytype="9000"/>
- <Property name="Campo adicional de usuario 100" id="59884" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField100" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 99" id="59885" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField99" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 98" id="59886" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField98" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 97" id="59887" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField97" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 96" id="59888" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField96" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 95" id="59889" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField95" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 94" id="59890" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField94" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 93" id="59891" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField93" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 92" id="59892" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField92" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 91" id="59893" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField91" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 90" id="59894" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField90" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 89" id="59895" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField89" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 88" id="59896" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField88" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 87" id="59897" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField87" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 86" id="59898" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField86" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 85" id="59899" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField85" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 84" id="59900" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField84" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 83" id="59901" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField83" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 82" id="59902" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField82" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 81" id="59903" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField81" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 80" id="59904" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField80" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 79" id="59905" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField79" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 78" id="59906" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField78" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 77" id="59907" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField77" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 76" id="59908" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField76" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 75" id="59909" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField75" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 74" id="59910" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField74" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 73" id="59911" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField73" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 72" id="59912" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField72" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 71" id="59913" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField71" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 70" id="59914" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField70" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 69" id="59915" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField69" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 68" id="59916" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField68" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 67" id="59917" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField67" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 66" id="59918" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField66" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 65" id="59919" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField65" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 64" id="59920" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField64" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 63" id="59921" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField63" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 62" id="59922" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField62" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 61" id="59923" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField61" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 60" id="59924" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField60" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 59" id="59925" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField59" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 58" id="59926" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField58" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 57" id="59927" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField57" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 56" id="59928" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField56" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 55" id="59929" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField55" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 54" id="59930" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField54" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 53" id="59931" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField53" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 52" id="59932" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField52" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 51" id="59933" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField51" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 50" id="59934" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField50" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 49" id="59935" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField49" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 48" id="59936" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField48" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 47" id="59937" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField47" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 46" id="59938" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField46" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 45" id="59939" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField45" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 44" id="59940" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField44" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 43" id="59941" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField43" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 42" id="59942" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField42" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 41" id="59943" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField41" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 40" id="59944" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField40" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 39" id="59945" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField39" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 38" id="59946" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField38" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 37" id="59947" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField37" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 36" id="59948" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField36" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 35" id="59949" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField35" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 34" id="59950" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField34" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 33" id="59951" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField33" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 32" id="59952" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField32" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 31" id="59953" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField31" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 30" id="59954" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField30" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 29" id="59955" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField29" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 28" id="59956" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField28" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 27" id="59957" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField27" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 26" id="59958" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField26" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 25" id="59959" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField25" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 24" id="59960" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField24" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 23" id="59961" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField23" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 22" id="59962" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField22" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 21" id="59963" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField21" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 20" id="59964" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField20" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 19" id="59965" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField19" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 18" id="59966" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField18" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 17" id="59967" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField17" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 16" id="59968" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField16" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 15" id="59969" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField15" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 14" id="59970" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField14" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 13" id="59971" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField13" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 12" id="59972" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField12" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 11" id="59973" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField11" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 10" id="59974" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField10" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 9" id="59975" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField9" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 8" id="59976" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField8" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 7" id="59977" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField7" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 6" id="59978" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField6" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 5" id="59979" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField5" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 4" id="59980" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField4" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 3" id="59981" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField3" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 2" id="59982" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField2" category="1" displaytype="9000"/>
- <Property name="Campo adicional de usuario 1" id="59983" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField1" category="1" displaytype="9000">??_??@IM Luis Alberto Villanueva Albores;</Property>
- <Property name="ESS Control de evaluación" id="59984" index="0" type="15" identname="ESS.Project.Reports" category="1" displaytype="5000">de_DE@Einzeln;en_US@Individual;es_ES@Individual;fr_FR@Unique;nl_NL@Afzonderlijk;sv_SE@Enskilt;da_DK@Enkel;ru_RU@Отдельно;zh_CN@单独;pl_PL@Pojedynczo;pt_BR@Individualmente;cs_CZ@Jednotlivě;it_IT@Singolarmente;hu_HU@Egyenként;pt_PT@Individual;ko_KR@개별;ja_JP@個別;tr_TR@Tek;ro_RO@Individual;zh_TW@個別;</Property>
- <Property name="ESS Circuito PLC" id="59985" index="0" type="15" identname="ESS.Project.PLC_Wires" category="1" displaytype="5101">de_DE@0,75 mm²;en_US@0,75 mm²;es_ES@0,75 mm²;fr_FR@0,75 mm²;nl_NL@0,75 mm²;sv_SE@0,75 mm²;da_DK@0,75 mm²;ru_RU@0,75 мм²;zh_CN@0,75 mm²;pl_PL@0,75 mm²;pt_BR@0,75 mm²;cs_CZ@0,75 mm²;it_IT@0,75 mm²;hu_HU@0,75 mm²;pt_PT@0,75 mm²;ko_KR@0,75 mm²;ja_JP@0,75 mm²;tr_TR@0,75 mm²;ro_RO@0,75 mm²;zh_TW@0,75 mm²;</Property>
- <Property name="ESS Línea de control" id="59986" index="0" type="15" identname="ESS.Project.Controlwires" category="1" displaytype="5101">de_DE@1,5 mm²;en_US@1,5 mm²;es_ES@1,5 mm²;fr_FR@1,5 mm²;nl_NL@1,5 mm²;sv_SE@1,5 mm²;da_DK@1,5 mm²;ru_RU@1,5 мм²;zh_CN@1,5 mm²;pl_PL@1,5 mm²;pt_BR@1,5 mm²;cs_CZ@1,5 mm²;it_IT@1,5 mm²;hu_HU@1,5 mm²;pt_PT@1,5 mm²;ko_KR@1,5 mm²;ja_JP@1,5 mm²;tr_TR@1,5 mm²;ro_RO@1,5 mm²;zh_TW@1,5 mm²;</Property>
- <Property name="ESS Conductor de protección" id="59987" index="0" type="15" identname="ESS.Project.Protectionwires" category="1" displaytype="5101">de_DE@1,5 mm²;en_US@1,5 mm²;es_ES@1,5 mm²;fr_FR@1,5 mm²;nl_NL@1,5 mm²;sv_SE@1,5 mm²;da_DK@1,5 mm²;ru_RU@1,5 мм²;zh_CN@1,5 mm²;pl_PL@1,5 mm²;pt_BR@1,5 mm²;cs_CZ@1,5 mm²;it_IT@1,5 mm²;hu_HU@1,5 mm²;pt_PT@1,5 mm²;ko_KR@1,5 mm²;ja_JP@1,5 mm²;tr_TR@1,5 mm²;ro_RO@1,5 mm²;zh_TW@1,5 mm²;</Property>
- <Property name="ESS Circuito principal" id="59988" index="0" type="15" identname="ESS.Project.Mainwires" category="1" displaytype="5101">de_DE@2,5 mm²;en_US@2,5 mm²;es_ES@2,5 mm²;fr_FR@2,5 mm²;nl_NL@2,5 mm²;sv_SE@2,5 mm²;da_DK@2,5 mm²;ru_RU@2,5 мм²;zh_CN@2,5 mm²;pl_PL@2,5 mm²;pt_BR@2,5 mm²;cs_CZ@2,5 mm²;it_IT@2,5 mm²;hu_HU@2,5 mm²;pt_PT@2,5 mm²;ko_KR@2,5 mm²;ja_JP@2,5 mm²;tr_TR@2,5 mm²;ro_RO@2,5 mm²;zh_TW@2,5 mm²;</Property>
- <Property name="ESS Tipo borne de 4 niveles" id="59989" index="0" type="15" identname="ESS.Project.Terminal_4" category="1" displaytype="5101">de_DE@Reihenklemmen Phoenix UK;en_US@Terminal blocks Phoenix UK;es_ES@Bloques de bornes de paso Phoenix UK;fr_FR@Bornes de série Phoenix UK;nl_NL@Aansluitklemmen Phoenix UK;sv_SE@Radplintar Phoenix UK;da_DK@Rækkeklemmer Phoenix UK;ru_RU@Присоединительные клеммы Phoenix UK;zh_CN@组合端子 Phoenix UK;pl_PL@Zaciski szeregowe Phoenix UK;pt_BR@Réguas de bornes Phoenix UK;cs_CZ@Řadové svorky Phoenix UK;it_IT@Morsetti componibili Phoenix UK;hu_HU@Phoenix UK sorkapcsok;pt_PT@Réguas de bornes Phoenix UK;ko_KR@터미널 블록 Phoenix UK;ja_JP@端子ブロック、Phoenix UK;tr_TR@Sıralı klemensler Phoenix UK;ro_RO@Cleme în serie Phoenix UK;zh_TW@端子台 Phoenix UK;</Property>
- <Property name="ESS Tipo borne de 2 niveles" id="59990" index="0" type="15" identname="ESS.Project.Terminal_2" category="1" displaytype="5101">de_DE@Reihenklemmen Phoenix UK;en_US@Terminal blocks Phoenix UK;es_ES@Bloques de bornes de paso Phoenix UK;fr_FR@Bornes de série Phoenix UK;nl_NL@Aansluitklemmen Phoenix UK;sv_SE@Radplintar Phoenix UK;da_DK@Rækkeklemmer Phoenix UK;ru_RU@Присоединительные клеммы Phoenix UK;zh_CN@组合端子 Phoenix UK;pl_PL@Zaciski szeregowe Phoenix UK;pt_BR@Réguas de bornes Phoenix UK;cs_CZ@Řadové svorky Phoenix UK;it_IT@Morsetti componibili Phoenix UK;hu_HU@Phoenix UK sorkapcsok;pt_PT@Réguas de bornes Phoenix UK;ko_KR@터미널 블록 Phoenix UK;ja_JP@端子ブロック、Phoenix UK;tr_TR@Sıralı klemensler Phoenix UK;ro_RO@Cleme în serie Phoenix UK;zh_TW@端子台 Phoenix UK;</Property>
- <Property name="ESS Clase de protección armario" id="59991" index="0" type="15" identname="ESS.Project.Cabinet_Protectionclass" category="1" displaytype="5101">de_DE@IP43;en_US@IP43;es_ES@IP43;fr_FR@IP43;nl_NL@IP43;sv_SE@IP43;da_DK@IP43;ru_RU@IP43;zh_CN@IP43;pl_PL@IP43;pt_BR@IP43;cs_CZ@IP43;it_IT@IP43;hu_HU@IP43;pt_PT@IP43;ko_KR@IP43;ja_JP@IP43;tr_TR@IP43;ro_RO@IP43;zh_TW@IP43;</Property>
- <Property name="ESS Color armario" id="59992" index="0" type="15" identname="ESS.Project.Cabinetcolor" category="1" displaytype="5101">de_DE@RAL 9016;en_US@RAL 9016;es_ES@RAL 9016;fr_FR@RAL 9016;nl_NL@RAL 9016;sv_SE@RAL 9016;da_DK@RAL 9016;ru_RU@RAL 9016;zh_CN@RAL 9016;pl_PL@RAL 9016;pt_BR@RAL 9016;cs_CZ@RAL 9016;it_IT@RAL 9016;hu_HU@RAL 9016;pt_PT@RAL 9016;ko_KR@RAL 9016;ja_JP@RAL 9016;tr_TR@RAL 9016;ro_RO@RAL 9016;zh_TW@RAL 9016;</Property>
- <Property name="ESS Zócalo armario" id="59993" index="0" type="15" identname="ESS.Project.Cabinetbase" category="1" displaytype="5101">de_DE@RITTAL VX;en_US@RITTAL VX;es_ES@RITTAL VX;fr_FR@RITTAL VX;nl_NL@RITTAL VX;sv_SE@RITTAL VX;da_DK@RITTAL VX;ru_RU@RITTAL VX;zh_CN@RITTAL VX;pl_PL@RITTAL VX;pt_BR@RITTAL VX;cs_CZ@RITTAL VX;it_IT@RITTAL VX;hu_HU@RITTAL VX;pt_PT@RITTAL VX;ko_KR@RITTAL VX;ja_JP@RITTAL VX;tr_TR@RITTAL VX;ro_RO@RITTAL VX;zh_TW@RITTAL VX;</Property>
- <Property name="ESS Armario" id="59994" index="0" type="15" identname="ESS.Project.Cabinet" category="1" displaytype="5101">de_DE@RITTAL VX;en_US@RITTAL VX;es_ES@RITTAL VX;fr_FR@RITTAL VX;nl_NL@RITTAL VX;sv_SE@RITTAL VX;da_DK@RITTAL VX;ru_RU@RITTAL VX;zh_CN@RITTAL VX;pl_PL@RITTAL VX;pt_BR@RITTAL VX;cs_CZ@RITTAL VX;it_IT@RITTAL VX;hu_HU@RITTAL VX;pt_PT@RITTAL VX;ko_KR@RITTAL VX;ja_JP@RITTAL VX;tr_TR@RITTAL VX;ro_RO@RITTAL VX;zh_TW@RITTAL VX;</Property>
- <Property name="ESS Especificaciones especiales del cliente" id="59995" index="0" type="15" identname="ESS.Project.Customer_Regulations" category="1" displaytype="5000">de_DE@Nein;en_US@No;es_ES@No;fr_FR@Non;nl_NL@Nee;sv_SE@Nej;da_DK@Nej;ru_RU@Нет;zh_CN@否;pl_PL@Nie;pt_BR@Não;cs_CZ@Ne;it_IT@No;hu_HU@Nem;pt_PT@Não;ko_KR@아니오;ja_JP@いいえ;tr_TR@Hayır;ro_RO@Nu;zh_TW@否;</Property>
- <Property name="ESS Tensión de mando" id="59996" index="0" type="15" identname="ESS.Project.Control_Voltage" category="1" displaytype="5101">de_DE@24 V DC;en_US@24 V DC;es_ES@24 V DC;fr_FR@24 V DC;nl_NL@24 V DC;sv_SE@24 V DC;da_DK@24 V DC;ru_RU@24 V DC;zh_CN@24 V DC;pl_PL@24 V DC;pt_BR@24 V DC;cs_CZ@24 V DC;it_IT@24 V DC;hu_HU@24 V DC;pt_PT@24 V DC;ko_KR@24 V DC;ja_JP@24 V DC;tr_TR@24 V DC;ro_RO@24 V DC;zh_TW@24 V DC;</Property>
- <Property name="ESS Línea de suministro" id="59997" index="0" type="15" identname="ESS.Project.Supply_Cable" category="1" displaytype="5101">en_US@NYM 5x6 mm²;de_DE@NYM 5x6 mm²;es_ES@NYM 5x6 mm²;fr_FR@NYM 5x6 mm²;nl_NL@NYM 5x6 mm²;sv_SE@NYM 5x6 mm²;da_DK@NYM 5x6 mm²;ru_RU@NYM 5x6 мм²;zh_CN@NYM 5x6 mm²;pl_PL@NYM 5x6 mm²;pt_BR@NYM 5x6 mm²;cs_CZ@NYM 5x6 mm²;it_IT@NYM 5x6 mm²;hu_HU@NYM 5x6 mm²;pt_PT@NYM 5x6 mm²;ko_KR@NYM 5x6 mm²;ja_JP@NYM 5x6 mm²;tr_TR@NYM 5x6 mm²;ro_RO@NYM 5x6 mm²;zh_TW@NYM 5x6 mm²;</Property>
- <Property name="ESS Alimentación" id="59998" index="0" type="15" identname="ESS.Project.Power_Feed_Values" category="1" displaytype="5101">en_US@400 V 50 Hz 50 A;de_DE@400 V 50 Hz 50 A;es_ES@400 V 50 Hz 50 A;fr_FR@400 V 50 Hz 50 A;nl_NL@400 V 50 Hz 50 A;sv_SE@400 V 50 Hz 50 A;da_DK@400 V 50 Hz 50 A;ru_RU@400 V 50 Hz 50 A;zh_CN@400 V 50 Hz 50 A;pl_PL@400 V 50 Hz 50 A;pt_BR@400 V 50 Hz 50 A;cs_CZ@400 V 50 Hz 50 A;it_IT@400 V 50 Hz 50 A;hu_HU@400 V 50 Hz 50 A;pt_PT@400 V 50 Hz 50 A;ko_KR@400 V 50 Hz 50 A;ja_JP@400 V 50 Hz 50 A;tr_TR@400 V 50 Hz 50 A;ro_RO@400 V 50 Hz 50 A;zh_TW@400 V 50 Hz 50 A;</Property>
+ <Property name="unknown" id="59983" index="0" type="7">??_??@IMC. Luis Alberto Villanueva Albores;</Property>
+ <Property name="unknown" id="59984" index="0" type="7">de_DE@Einzeln;en_US@Individual;es_ES@Individual;fr_FR@Unique;nl_NL@Afzonderlijk;sv_SE@Enskilt;da_DK@Enkel;ru_RU@Отдельно;zh_CN@单独;pl_PL@Pojedynczo;pt_BR@Individualmente;cs_CZ@Jednotlivě;it_IT@Singolarmente;hu_HU@Egyenként;pt_PT@Individual;ko_KR@개별;ja_JP@個別;tr_TR@Tek;ro_RO@Individual;zh_TW@個別;</Property>
+ <Property name="unknown" id="59985" index="0" type="7">de_DE@0,75 mm²;en_US@0,75 mm²;es_ES@0,75 mm²;fr_FR@0,75 mm²;nl_NL@0,75 mm²;sv_SE@0,75 mm²;da_DK@0,75 mm²;ru_RU@0,75 мм²;zh_CN@0,75 mm²;pl_PL@0,75 mm²;pt_BR@0,75 mm²;cs_CZ@0,75 mm²;it_IT@0,75 mm²;hu_HU@0,75 mm²;pt_PT@0,75 mm²;ko_KR@0,75 mm²;ja_JP@0,75 mm²;tr_TR@0,75 mm²;ro_RO@0,75 mm²;zh_TW@0,75 mm²;</Property>
+ <Property name="unknown" id="59986" index="0" type="7">de_DE@1,5 mm²;en_US@1,5 mm²;es_ES@1,5 mm²;fr_FR@1,5 mm²;nl_NL@1,5 mm²;sv_SE@1,5 mm²;da_DK@1,5 mm²;ru_RU@1,5 мм²;zh_CN@1,5 mm²;pl_PL@1,5 mm²;pt_BR@1,5 mm²;cs_CZ@1,5 mm²;it_IT@1,5 mm²;hu_HU@1,5 mm²;pt_PT@1,5 mm²;ko_KR@1,5 mm²;ja_JP@1,5 mm²;tr_TR@1,5 mm²;ro_RO@1,5 mm²;zh_TW@1,5 mm²;</Property>
+ <Property name="unknown" id="59987" index="0" type="7">de_DE@1,5 mm²;en_US@1,5 mm²;es_ES@1,5 mm²;fr_FR@1,5 mm²;nl_NL@1,5 mm²;sv_SE@1,5 mm²;da_DK@1,5 mm²;ru_RU@1,5 мм²;zh_CN@1,5 mm²;pl_PL@1,5 mm²;pt_BR@1,5 mm²;cs_CZ@1,5 mm²;it_IT@1,5 mm²;hu_HU@1,5 mm²;pt_PT@1,5 mm²;ko_KR@1,5 mm²;ja_JP@1,5 mm²;tr_TR@1,5 mm²;ro_RO@1,5 mm²;zh_TW@1,5 mm²;</Property>
+ <Property name="unknown" id="59988" index="0" type="7">de_DE@2,5 mm²;en_US@2,5 mm²;es_ES@2,5 mm²;fr_FR@2,5 mm²;nl_NL@2,5 mm²;sv_SE@2,5 mm²;da_DK@2,5 mm²;ru_RU@2,5 мм²;zh_CN@2,5 mm²;pl_PL@2,5 mm²;pt_BR@2,5 mm²;cs_CZ@2,5 mm²;it_IT@2,5 mm²;hu_HU@2,5 mm²;pt_PT@2,5 mm²;ko_KR@2,5 mm²;ja_JP@2,5 mm²;tr_TR@2,5 mm²;ro_RO@2,5 mm²;zh_TW@2,5 mm²;</Property>
+ <Property name="unknown" id="59989" index="0" type="7">de_DE@Reihenklemmen Phoenix UK;en_US@Terminal blocks Phoenix UK;es_ES@Bloques de bornes de paso Phoenix UK;fr_FR@Bornes de série Phoenix UK;nl_NL@Aansluitklemmen Phoenix UK;sv_SE@Radplintar Phoenix UK;da_DK@Rækkeklemmer Phoenix UK;ru_RU@Присоединительные клеммы Phoenix UK;zh_CN@组合端子 Phoenix UK;pl_PL@Zaciski szeregowe Phoenix UK;pt_BR@Réguas de bornes Phoenix UK;cs_CZ@Řadové svorky Phoenix UK;it_IT@Morsetti componibili Phoenix UK;hu_HU@Phoenix UK sorkapcsok;pt_PT@Réguas de bornes Phoenix UK;ko_KR@터미널 블록 Phoenix UK;ja_JP@端子ブロック、Phoenix UK;tr_TR@Sıralı klemensler Phoenix UK;ro_RO@Cleme în serie Phoenix UK;zh_TW@端子台 Phoenix UK;</Property>
+ <Property name="unknown" id="59990" index="0" type="7">de_DE@Reihenklemmen Phoenix UK;en_US@Terminal blocks Phoenix UK;es_ES@Bloques de bornes de paso Phoenix UK;fr_FR@Bornes de série Phoenix UK;nl_NL@Aansluitklemmen Phoenix UK;sv_SE@Radplintar Phoenix UK;da_DK@Rækkeklemmer Phoenix UK;ru_RU@Присоединительные клеммы Phoenix UK;zh_CN@组合端子 Phoenix UK;pl_PL@Zaciski szeregowe Phoenix UK;pt_BR@Réguas de bornes Phoenix UK;cs_CZ@Řadové svorky Phoenix UK;it_IT@Morsetti componibili Phoenix UK;hu_HU@Phoenix UK sorkapcsok;pt_PT@Réguas de bornes Phoenix UK;ko_KR@터미널 블록 Phoenix UK;ja_JP@端子ブロック、Phoenix UK;tr_TR@Sıralı klemensler Phoenix UK;ro_RO@Cleme în serie Phoenix UK;zh_TW@端子台 Phoenix UK;</Property>
+ <Property name="unknown" id="59991" index="0" type="7">de_DE@IP43;en_US@IP43;es_ES@IP43;fr_FR@IP43;nl_NL@IP43;sv_SE@IP43;da_DK@IP43;ru_RU@IP43;zh_CN@IP43;pl_PL@IP43;pt_BR@IP43;cs_CZ@IP43;it_IT@IP43;hu_HU@IP43;pt_PT@IP43;ko_KR@IP43;ja_JP@IP43;tr_TR@IP43;ro_RO@IP43;zh_TW@IP43;</Property>
+ <Property name="unknown" id="59992" index="0" type="7">de_DE@RAL 9016;en_US@RAL 9016;es_ES@RAL 9016;fr_FR@RAL 9016;nl_NL@RAL 9016;sv_SE@RAL 9016;da_DK@RAL 9016;ru_RU@RAL 9016;zh_CN@RAL 9016;pl_PL@RAL 9016;pt_BR@RAL 9016;cs_CZ@RAL 9016;it_IT@RAL 9016;hu_HU@RAL 9016;pt_PT@RAL 9016;ko_KR@RAL 9016;ja_JP@RAL 9016;tr_TR@RAL 9016;ro_RO@RAL 9016;zh_TW@RAL 9016;</Property>
+ <Property name="unknown" id="59993" index="0" type="7">de_DE@RITTAL VX;en_US@RITTAL VX;es_ES@RITTAL VX;fr_FR@RITTAL VX;nl_NL@RITTAL VX;sv_SE@RITTAL VX;da_DK@RITTAL VX;ru_RU@RITTAL VX;zh_CN@RITTAL VX;pl_PL@RITTAL VX;pt_BR@RITTAL VX;cs_CZ@RITTAL VX;it_IT@RITTAL VX;hu_HU@RITTAL VX;pt_PT@RITTAL VX;ko_KR@RITTAL VX;ja_JP@RITTAL VX;tr_TR@RITTAL VX;ro_RO@RITTAL VX;zh_TW@RITTAL VX;</Property>
+ <Property name="unknown" id="59994" index="0" type="7">de_DE@RITTAL VX;en_US@RITTAL VX;es_ES@RITTAL VX;fr_FR@RITTAL VX;nl_NL@RITTAL VX;sv_SE@RITTAL VX;da_DK@RITTAL VX;ru_RU@RITTAL VX;zh_CN@RITTAL VX;pl_PL@RITTAL VX;pt_BR@RITTAL VX;cs_CZ@RITTAL VX;it_IT@RITTAL VX;hu_HU@RITTAL VX;pt_PT@RITTAL VX;ko_KR@RITTAL VX;ja_JP@RITTAL VX;tr_TR@RITTAL VX;ro_RO@RITTAL VX;zh_TW@RITTAL VX;</Property>
+ <Property name="unknown" id="59995" index="0" type="7">de_DE@Nein;en_US@No;es_ES@No;fr_FR@Non;nl_NL@Nee;sv_SE@Nej;da_DK@Nej;ru_RU@Нет;zh_CN@否;pl_PL@Nie;pt_BR@Não;cs_CZ@Ne;it_IT@No;hu_HU@Nem;pt_PT@Não;ko_KR@아니오;ja_JP@いいえ;tr_TR@Hayır;ro_RO@Nu;zh_TW@否;</Property>
+ <Property name="unknown" id="59996" index="0" type="7">de_DE@24 V DC;en_US@24 V DC;es_ES@24 V DC;fr_FR@24 V DC;nl_NL@24 V DC;sv_SE@24 V DC;da_DK@24 V DC;ru_RU@24 V DC;zh_CN@24 V DC;pl_PL@24 V DC;pt_BR@24 V DC;cs_CZ@24 V DC;it_IT@24 V DC;hu_HU@24 V DC;pt_PT@24 V DC;ko_KR@24 V DC;ja_JP@24 V DC;tr_TR@24 V DC;ro_RO@24 V DC;zh_TW@24 V DC;</Property>
+ <Property name="unknown" id="59997" index="0" type="7">en_US@NYM 5x6 mm²;de_DE@NYM 5x6 mm²;es_ES@NYM 5x6 mm²;fr_FR@NYM 5x6 mm²;nl_NL@NYM 5x6 mm²;sv_SE@NYM 5x6 mm²;da_DK@NYM 5x6 mm²;ru_RU@NYM 5x6 мм²;zh_CN@NYM 5x6 mm²;pl_PL@NYM 5x6 mm²;pt_BR@NYM 5x6 mm²;cs_CZ@NYM 5x6 mm²;it_IT@NYM 5x6 mm²;hu_HU@NYM 5x6 mm²;pt_PT@NYM 5x6 mm²;ko_KR@NYM 5x6 mm²;ja_JP@NYM 5x6 mm²;tr_TR@NYM 5x6 mm²;ro_RO@NYM 5x6 mm²;zh_TW@NYM 5x6 mm²;</Property>
+ <Property name="unknown" id="59998" index="0" type="7">en_US@400 V 50 Hz 50 A;de_DE@400 V 50 Hz 50 A;es_ES@400 V 50 Hz 50 A;fr_FR@400 V 50 Hz 50 A;nl_NL@400 V 50 Hz 50 A;sv_SE@400 V 50 Hz 50 A;da_DK@400 V 50 Hz 50 A;ru_RU@400 V 50 Hz 50 A;zh_CN@400 V 50 Hz 50 A;pl_PL@400 V 50 Hz 50 A;pt_BR@400 V 50 Hz 50 A;cs_CZ@400 V 50 Hz 50 A;it_IT@400 V 50 Hz 50 A;hu_HU@400 V 50 Hz 50 A;pt_PT@400 V 50 Hz 50 A;ko_KR@400 V 50 Hz 50 A;ja_JP@400 V 50 Hz 50 A;tr_TR@400 V 50 Hz 50 A;ro_RO@400 V 50 Hz 50 A;zh_TW@400 V 50 Hz 50 A;</Property>
 </Properties>
