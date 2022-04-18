@@ -27,10 +27,10 @@
  <Property name="Autor" id="10020" index="0" type="7">SENASICA</Property>
  <Property name="Fecha de creación" id="10021" index="0" type="14">1649687105</Property>
  <Property name="Ultimo responsable: nombre de inicio de sesión" id="10022" index="0" type="7">JULIO</Property>
- <Property name="Fecha de modificación" id="10023" index="0" type="14">1649979302</Property>
+ <Property name="Fecha de modificación" id="10023" index="0" type="14">1650154831</Property>
  <Property name="Última traducción: fecha" id="10024" index="0" type="14">1628151997</Property>
  <Property name="Responsable del proyecto" id="10025" index="0" type="7">EPL</Property>
- <Property name="Fecha del día" id="10027" index="0" type="14">1650050769</Property>
+ <Property name="Fecha del día" id="10027" index="0" type="14">1650251841</Property>
  <Property name="Inicio de proyecto" id="10028" index="0" type="14">1649687128</Property>
  <Property name="Formatos de estructura principal" id="10029" index="0" type="7">4&#9;0&#9;0&#9;0&#9;0</Property>
  <Property name="Ambito especial" id="10034" index="0" type="15">de_DE@Keine;en_US@None;es_ES@Ninguno;fr_FR@Aucune;nl_NL@Geen;sv_SE@Inga;da_DK@Ingen;ru_RU@Нет;zh_CN@无;pl_PL@Brak;pt_BR@Nenhum;cs_CZ@Žádné;it_IT@Nessuno;hu_HU@Nincs;pt_PT@Nenhum;ko_KR@없음;ja_JP@なし;tr_TR@Yok;ro_RO@Niciuna;zh_TW@無;</Property>
@@ -39,7 +39,7 @@
  <Property name="Ultimo número de compilación EPLAN utilizado" id="10044" index="0" type="7">17561</Property>
  <Property name="Ruta de proyecto (completa)" id="10045" index="0" type="7">C:\Users\julio\Documents\PROYECTOS HORNOS\Proyecto_Agriculture</Property>
  <Property name="Hora de creación" id="10046" index="0" type="7">09:25:05 a. m.</Property>
- <Property name="Hora de modificación" id="10047" index="0" type="7">06:35:02 p. m.</Property>
+ <Property name="Hora de modificación" id="10047" index="0" type="7">07:20:31 p. m.</Property>
  <Property name="Última traducción: hora" id="10048" index="0" type="7">03:26:37 a. m.</Property>
  <Property name="Formato de estructura de páginas" id="10050" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;10006&gt;&lt;11012&gt;&lt;11013&gt;</Property>
  <Property name="Formato de estructura de puntos de interrupción" id="10051" index="0" type="7">&lt;10002&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;</Property>
@@ -48,7 +48,7 @@
  <Property name="Formato de estructura de medios de explotación generales" id="10055" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Formato de estructura de cajas de aparatos" id="10056" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Formato de estructura para técnica PLC / bus" id="10057" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
- <Property name="Hora del día" id="10058" index="0" type="14">1650050769</Property>
+ <Property name="Hora del día" id="10058" index="0" type="14">1650251841</Property>
  <Property name="Formato de estructura de regletas de bornes" id="10059" index="0" type="7">&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Formato de estructura de conectores" id="10060" index="0" type="7">&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Formato de estructura de cables" id="10061" index="0" type="7">&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
